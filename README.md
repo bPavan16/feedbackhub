@@ -1,4 +1,4 @@
-# Feedbackhub
+# FeedbackHub
 
 ## A project created while learning Next.js and NextJs API Routes
 
